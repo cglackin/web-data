@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+print('Content-Type: application/json\r\n')
+print("x" + "," + "y" + "," + "z")
+print("0" + "," + "0" + "," + "0")
+print("0" + "," + "0" + "," + "1")
+print("0" + "," + "1" + "," + "0")
+print("0" + "," + "1" + "," + "1")
+print("1" + "," + "0" + "," + "0")
+print("1" + "," + "0" + "," + "1")
+print("1" + "," + "1" + "," + "0")
+'''
+print(0 ,0, 1)
+print(0 ,1, 0)
+print(0 ,1, 1)
+print(1 ,0, 0)
+print(1 ,0, 1)
+print(1 ,1, 1)
+
+print('<html>')
+print('<head></head>')
+print('<body>')
+print('<h2>Hello World</h2>')
+print('<h2>Hello World</h2>')
+print('<h2>Hello World</h2>')
+print('<h2>Hello World</h2>')
+print('</body></html>')
+'''
